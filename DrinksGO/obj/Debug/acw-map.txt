@@ -1,0 +1,4 @@
+DrinksGO.MainActivity, DrinksGO;md5201356fae1a5e4a5650d8b4a0ac6ce70.MainActivity
+DrinksGO.MainActivity, DrinksGO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5201356fae1a5e4a5650d8b4a0ac6ce70.MainActivity
+DrinksGO.MainActivity;md5201356fae1a5e4a5650d8b4a0ac6ce70.MainActivity
+drinksgo.MainActivity;md5201356fae1a5e4a5650d8b4a0ac6ce70.MainActivity
