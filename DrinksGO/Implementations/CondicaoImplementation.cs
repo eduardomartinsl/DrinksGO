@@ -14,11 +14,10 @@ using DrinksGO.Models;
 
 namespace DrinksGO.Implementations {
     public class CondicaoImplementation : ICondicaoView {
-        public Task<IList<Condicao>> GetAll() {
+        public IList<Condicao> GetAll() {
             IList<Condicao> condicao = new List<Condicao> {
                 new Condicao { id = 0, ComoFazer ="Virar copo" },
                 new Condicao { id = 0, ComoFazer ="Bebe meio copo" },
-                new Condicao { id = 0, ComoFazer ="Bebe seno(3/8) de copo" },
                 new Condicao { id = 0, ComoFazer ="Encher copo" },
                 new Condicao { id = 0, ComoFazer ="Dar 1 gole" },
                 new Condicao { id = 0, ComoFazer ="Dar 2 goles" },
@@ -36,11 +35,9 @@ namespace DrinksGO.Implementations {
                 new Condicao { id = 0, ComoFazer ="Não beber por 2 jogadas" },
                 new Condicao { id = 0, ComoFazer ="Não beber por 3 jogadas" },
                 new Condicao { id = 0, ComoFazer ="Não beber por 1 rodada" },
-                new Condicao { id = 0, ComoFazer ="Beber a bebida quente" },
 
             };
-
-            return Task.FromResult(condicao);
+            return condicao;
         }
     }
 }

@@ -15,7 +15,7 @@ using DrinksGO.Models;
 namespace DrinksGO.Interfaces {
     public interface IFinalizacaoView {
 
-        Task<IList<Finalizacao>> GetAll();
+        IList<Finalizacao> GetAll();
 
     }
 }

@@ -1,24 +1,11 @@
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\DrinksGO.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\Java.Interop.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\Microsoft.CSharp.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\Mono.Android.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\mscorlib.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Core.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Xml.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Threading.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Runtime.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Collections.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Reflection.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Linq.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\Mono.CSharp.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\DrinksGO\DrinksGO\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\DrinksGO.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\Microsoft.CSharp.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\Mono.Android.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\mscorlib.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.Core.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.Xml.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\Mono.CSharp.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Repositorios\DrinksGO\DrinksGO\obj\Debug\assemblies\System.ServiceModel.Internals.dll

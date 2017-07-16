@@ -4,19 +4,19 @@ using DrinksGO.Interfaces;
 using DrinksGO.Models;
 using System.Collections;
 using System;
+using System.Linq;
 
 namespace DrinksGO.Implementations {
     class SujeitoImplementation : ISujeitoView {
-        public Task<IList<Sujeito>> GetAll() {
+        public IList<Sujeito> GetAll() {
 
-            IList < Sujeito > sujeito = new List<Sujeito> {
+                IList < Sujeito > sujeito = new List<Sujeito> {
                 new Sujeito { id = 0, Quem="Você" },
                 new Sujeito { id = 0, Quem="Você e mais um jogador" },
                 new Sujeito { id = 0, Quem="Todos menos você" },
                 new Sujeito { id = 0, Quem="Um jogador de sua escolha" },
                 new Sujeito { id = 0, Quem="Dois jogadores de sua escolha" },
                 new Sujeito { id = 0, Quem="Seu crush" },
-                new Sujeito { id = 0, Quem="As mina top" },
                 new Sujeito { id = 0, Quem="O Jogador a sua direita" },
                 new Sujeito { id = 0, Quem="O Jogador a sua esquerda" },
                 new Sujeito { id = 0, Quem="O jogador a sua frente" },
@@ -35,9 +35,7 @@ namespace DrinksGO.Implementations {
                 new Sujeito { id = 0, Quem="Todos de óculos" },
                 new Sujeito { id = 0, Quem="Todos os comunistas" }
             };
-
-
-            return Task.FromResult(sujeito);
+            return sujeito;
         }
     }
 }

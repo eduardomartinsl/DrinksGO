@@ -14,7 +14,7 @@ using DrinksGO.Models;
 
 namespace DrinksGO.Implementations {
     public class AcaoBebidaImplementation : IAcaoBebidaView {
-        public Task<IList<AcaoBebida>> GetAll() {
+        public IList<AcaoBebida> GetAll() {
             IList<AcaoBebida> acaoBebida = new List<AcaoBebida> {
                 new AcaoBebida {id = 0, OQueFazer="Sem encostostar a boca no copo" },
                 new AcaoBebida {id = 0, OQueFazer="Fazendo carinho no jogador a esquerda" },
@@ -34,7 +34,7 @@ namespace DrinksGO.Implementations {
                 new AcaoBebida {id = 0, OQueFazer="Apertando a bunda do jogador a esquerda" },
                 new AcaoBebida {id = 0, OQueFazer="Apertando a própria bunda" },
             };
-            return Task.FromResult(acaoBebida);
+            return acaoBebida;
         }
     }
 }

@@ -15,7 +15,7 @@ using DrinksGO.Models;
 namespace DrinksGO.Interfaces {
     public interface ICondicaoView {
 
-        Task<IList<Condicao>> GetAll();
+        IList<Condicao> GetAll();
 
     }
 }

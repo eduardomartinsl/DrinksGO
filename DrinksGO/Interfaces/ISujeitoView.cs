@@ -15,7 +15,7 @@ using DrinksGO.Models;
 namespace DrinksGO.Interfaces {
     public interface ISujeitoView {
 
-        Task<IList<Sujeito>> GetAll();
+        IList<Sujeito> GetAll();
 
     }
 }

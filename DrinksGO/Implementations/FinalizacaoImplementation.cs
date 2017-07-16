@@ -16,11 +16,11 @@ namespace DrinksGO.Implementations {
     public class FinalizacaoImplementation : IFinalizacaoView {
 
         //update futuro
-        public Task<IList<Finalizacao>> GetAll() {
+        public IList<Finalizacao> GetAll() {
             IList<Finalizacao> finalizacao = new List<Finalizacao> {
                 new Finalizacao{id = 0, ComoFinalizar = "Depois gritar um trecho do hino nacional"},
             };
-            return Task.FromResult(finalizacao);
+            return finalizacao;
         }
     }
 

@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 namespace DrinksGO.Interfaces {
     public interface IAcaoBebidaView {
 
-        Task<IList<AcaoBebida>> GetAll();
+        IList<AcaoBebida> GetAll();
 
     }
 }

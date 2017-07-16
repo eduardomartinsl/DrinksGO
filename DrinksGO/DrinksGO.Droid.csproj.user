@@ -4,6 +4,6 @@
     <SelectedDevice>AVD_GalaxyNexus_ToolsForApacheCordova</SelectedDevice>
     <DefaultDevice>AVD_GalaxyNexus_ToolsForApacheCordova</DefaultDevice>
     <ProjectView>ProjectFiles</ProjectView>
-    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredDevice>Custom Device %28notround%29</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
